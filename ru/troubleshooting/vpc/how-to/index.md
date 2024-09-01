@@ -17,4 +17,3 @@
 * [Как перенести IP в другую зону доступности](transferring-ip-to-a-different-zone.md)
 * [Как подключить расширенную защиту от DDoS](enable-advanced-anti-ddos-protection.md)
 * [Как заблокировать IP-адрес](block-ip-address.md)
-* 
